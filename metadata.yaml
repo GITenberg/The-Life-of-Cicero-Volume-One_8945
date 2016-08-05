@@ -1,0 +1,27 @@
+_repo: The-Life-of-Cicero-Volume-One_8945
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Trollope, Anthony
+    birthdate: 1815
+    deathdate: 1882
+    gutenberg_agent_id: '324'
+    url: http://www.gutenberg.org/2009/agents/324
+    wikipedia: http://en.wikipedia.org/wiki/Anthony_Trollope
+description: ''
+gutenberg_issued: '2005-09-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '8945'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Cicero, Marcus Tullius'
+- !lcc 'DG'
+- !lcsh 'Authors, Latin -- Biography'
+- !lcsh 'Statesmen -- Rome -- Biography'
+- GITenberg
+title: The Life of Cicero, Volume One
+url: http://www.gutenberg.org/ebooks/8945
